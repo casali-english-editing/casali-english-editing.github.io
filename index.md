@@ -10,7 +10,7 @@ permalink: /
 
 ## A BIT ABOUT ME
 
-  <img src="img/avatar.jpg" alt="A picture of me" width="100%"> | Originally from New York, I have lived in the Netherlands since 2016. I am the proud mother of two cats and two dogs, an avid bookworm, and the creator of the monthly English book-swap here in Groningen. I am a Cambridge certified English teacher and experienced Editor.
+  <img src="img/avatar.jpg" alt="A picture of me" width="100%"> | Originally from New York, I have lived in the Netherlands since 2016. I am the proud mother of two cats and two dogs, an avid bookworm, and the creator of the monthly English book-swap here in Groningen. I am a Cambridge certified English teacher and an experienced Editor.
 
 
 ---
