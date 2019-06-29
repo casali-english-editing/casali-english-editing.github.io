@@ -32,9 +32,3 @@ With customized individual lessons, we can prioritize the parts of the English l
 
 
 [Click here to learn more](tutoring)
-
----
-
-**2015 -- Current:** |  PhD | <i class="material-icons">account_balance</i> | [University of Groningen (RuG)](http://www.astro.rug.nl){:target="_blank"}
-                     | Astrophysics | | Kapteyn Astronomical Institute
-                     | _Accreting neutron stars and black-holes_ | <i class="material-icons">place</i> | Groningen, The Netherlands
