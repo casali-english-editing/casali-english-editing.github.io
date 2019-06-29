@@ -6,7 +6,7 @@ permalink: /
 
 # Casali English Editing
 
-<img src="img/casalicover3.jpg" alt="Casali English Editing" height="20%" width="90%">
+<img src="img/casalicover3.jpg" alt="Casali English Editing" height="20%" width="100%">
 
 ## A BIT ABOUT ME
 
