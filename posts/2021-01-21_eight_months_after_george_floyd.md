@@ -1,9 +1,12 @@
 ---
 layout: post
 title: "Eight Months in the Aftermath: Reflections of the Murder of George Floyd" 
+subtitle: "by Catriona Casali"
 cover-img: /assets/image2.png
 thumbnail-img: /assets/image2.png
 share-img: /assets/image2.png
+date: 21-01-2021
+author: Catriona Casali
 ---
 
 People dodge cars, yelling. Debris clutters the streets for miles, frosted with broken  glass. A Wendy’s is unrecognizable- its windows reduced to shards, looted to the bone. Across  the parking lot the AutoZone is a bonfire. Dumpsters ablaze in every corner of the shopping  plaza. A passerby stops says that a semi-truck is also on fire. Target and Cub Foods are also on  fire. Something explodes, people cheer- the truck has blown up. The cameraman says, in a  muffled voice “whether you agree with this or not, it’s happening”, and stops to adjust his  mask.  
