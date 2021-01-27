@@ -14,16 +14,17 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Casali English Editing
+title: Catriona Casali
 
 # Short description of your site
-description: Casali English Editing
+description: Catriona Casali - Writer and English Professional
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
   Home: "index"
+  Blog: "blog"
   Services: "services"
   Contact: "contact"
 
@@ -52,7 +53,7 @@ avatar: "/img/avatar.jpg"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Evandro M. Ribeiro
+  name: Catriona Casali
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.

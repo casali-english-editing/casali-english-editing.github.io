@@ -2,11 +2,7 @@
 layout: post
 title: "Eight Months in the Aftermath: Reflections of the Murder of George Floyd" 
 subtitle: "by Catriona Casali"
-cover-img: /assets/image2.png
-thumbnail-img: /assets/image2.png
-share-img: /assets/image2.png
-date: 21-01-2021
-author: Catriona Casali
+thumbnail-img: /assets/imgs/image2.png
 ---
 
 People dodge cars, yelling. Debris clutters the streets for miles, frosted with broken  glass. A Wendy’s is unrecognizable- its windows reduced to shards, looted to the bone. Across  the parking lot the AutoZone is a bonfire. Dumpsters ablaze in every corner of the shopping  plaza. A passerby stops says that a semi-truck is also on fire. Target and Cub Foods are also on  fire. Something explodes, people cheer- the truck has blown up. The cameraman says, in a  muffled voice “whether you agree with this or not, it’s happening”, and stops to adjust his  mask.  
@@ -19,7 +15,7 @@ Floyd was black and Chauvin was white, and though this was one of many incidents
 Andrew Mercado arrives with a bag from Burger King. He dims the lights in his  apartment for ambiance. In the background, a pine branch has been festively framed around a  football poster; there is a nutcracker, a mini light-up Christmas tree, a red-and-white slow flaked blanket. Andrew is a 27-year-old veteran, student, and Minneapolis-area native. He  comes from a conservative-leaning family, and before the killing of George Floyd, had never  been to a protest before. He had been inside for days in accordance with Covid restrictions,  playing video games and watching the rising WHO statistics when he saw the video of George  Floyd’s murder on May 25th, and he was horrified. “On the night of the 26th," he recalls, " there  was a peaceful protest that was flash banged and teargassed by the police, and that’s what  caused everybody to go down there on the 27th, and that’s the night I went down there." A  friend of his suggested that he live-stream the event. Andrew had no previous experience with  journalism, citizen or otherwise, but he decided to try. “I parked my truck and I’m walking, and I  see the riot police on the roof, and teargas being thrown out and flashbangs going off and  fireworks, and it looked like something out of a movie, I couldn’t believe what I was looking  at.”.  
 
 
-<img src="/assets/image0.png" alt="police station in flames" width="100%">
+<img src="/assets/imgs/image0.png" alt="police station in flames" width="100%">
 
 
 That first night, the protest had not yet become politically polarized. Andrew filmed people  from the “far-right groups and far left groups and everyone in-between” coming together to  bandage wounds made from glass; he filmed a man had trying to kill himself by crawling under  a flaming building that was about to collapse, and a group of bystanders grabbing him and  carried him to the other side of the street at the last minute; he filmed himself going up and  down a residential block in the middle of the night with a group of bystanders to wake people  up, because the fire had nearly reached them. One distraught woman hadn’t been able to get  her cat out of the house but needed to evacuate herself, and Andrew smashed the window  with a baton, allowing another man to jump inside and get the cat out. “I was on autopilot. I  didn’t know what else to do, I couldn’t just stand there”. That evening 22,000 people tuned into  Andrew’s livestream, and the following night, the number reached 68,000.  
@@ -32,7 +28,7 @@ It is likely that one of those viewers was Jason Humbert, whose apartment was me
 
 In the days and weeks that followed, an intricate grassroots network formed within the  Minneapolis area, designed to assist the more vulnerable members of the community whose  lives had been affected in the aftermath of police brutality. The major supermarkets in Jason ’s  neighborhood had been looted or burned down, and people from all over the city had come to  hand out food and water. There were stations of people set up to pour milk into the eyes of  demonstrators who had been maced. Shop owners in the area, many of whom had boarded up  their shops and were on-site protecting them, often in vain, nonetheless expressed support for  the black community and with the BLM movement. A dumpster appeared outside of one chain  supermarket, and was soon overflowing with items that could no longer be sold. Jason  describes, "There were tons of unopened boxes of crackers, containers of rice and flour.... so I  started dumpster diving. The first day there was just me and another couple, and we would  drop it off at a food distribution point the next day”. The following day there was another  dumpster, and soon Jason was joined by twenty people, sorting through packaged food to  deliver to food distribution centers., “There was this elaborate network of groups who maybe  didn’t have the time to go out and distribute things but had access to lots of resources. And  then there were people who connected the people with resources to people who could pick it  up and distribute it. And there were people whose main job was to go and find out where  everybody was who needed food or money or whatever... it was surprising and inspiring and  probably the best part of 2020 was just seeing people pull together like that”.
 
-<img src="/assets/image1.png" alt="police station in flames" width="100%">
+<img src="/assets/imgs/image1.png" alt="police station in flames" width="100%">
 
 *** 
 Across the city in Northeast Minneapolis, Marie Debris found herself disoriented by the  silence of her neighborhood in the wake of the murder of George Floyd. She walked the two  blocks from her house to the second precinct with a sign, and for a couple of days, she was the  only person protesting. “It started growing a bit after that”, she tells me, “but Northeast became a blind spot to the protest. It’s the smallest precinct, they have the lowest rates of cops  murdering people, basically. It’s so far removed from the other four precincts in the city.”. But. A program called Cash Drop Tuesdays was developed, an initiative that collected money to  funnel it to the most vulnerable demographics of Minneapolis. Marie described going to her  neighbors’ house and organizing supplies that people had dropped off, to send to the right  areas of the city: “They had tents popped up to protect supplies from the weather... and had  vans coming in and out and bringing stuff places, and a first aid station just in case something  happened at the precinct a block from us. A lot of community organization was involved in all  this”. The city of Minneapolis had been rocked to its core, and in many ways, people rose to the  challenge.
@@ -49,5 +45,5 @@ Eight months later, Marie says the protests have brought her neighborhood closer
 
 The killing of George Floyd stands apart not because it is exceptional, but because it was witnessed. A bystander filmed it, the film went viral, and the public was confronted. The protests began in Minneapolis, rapidly spread across the nation, and eventually resulted in  solidarity protests in over 2,000 cities across 60 countries worldwide calling for the end of lethal  and ethnically-charged police brutality. Jason sighs, and says “My hope is that whatever the  next incident is will be the final straw… will be the final straw that it felt like the murder of  George Floyd was, but for real this time”.
 
-<img src="/assets/image2.png" alt="police station in flames" width="100%">
+<img src="/assets/imgs/image2.png" alt="police station in flames" width="100%">
 
